@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://i.ytimg.com/vi/YWmpB_6E8KI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEYgVihlMA8=&rs=AOn4CLCffeEHPia2Fo7G4JWjYjKeQV0wCA" alt="profile image" width="50" height="50"/>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/YourBannerImageLinkHere" alt="banner" width="600"/>
+  <img src="https://i.ytimg.com/vi/YWmpB_6E8KI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEYgVihlMA8=&rs=AOn4CLCffeEHPia2Fo7G4JWjYjKeQV0wCA" alt="profile image" width="100" height="100" style="border-radius: 50%;"/>
 </p>
 
 <h1 align="center">Hey, it’s me—uhh, hi!</h1>
