@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ytimg.com/vi/YWmpB_6E8KI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEYgVihlMA8=&rs=AOn4CLCffeEHPia2Fo7G4JWjYjKeQV0wCA" alt="profile image" style="width: 100%; height: 40vh; border-radius: 10px;"/>
+  <img src="https://i.ytimg.com/vi/YWmpB_6E8KI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEYgVihlMA8=&rs=AOn4CLCffeEHPia2Fo7G4JWjYjKeQV0wCA" alt="profile image" style="width: 100%; height: auto; border-radius: 10px;"/>
 </p>
 
 <h1 align="center">Hey, it’s me—uhh, hi!</h1>
