@@ -1,36 +1,34 @@
-# [Your Name] (@yourhandle)
+<p align="center">
+  <img src="https://i.imgur.com/UcJxXW6.gif" alt="coding gif" width="200"/>
+</p>
 
-![Profile Picture](link-to-your-profile-picture)
+<p align="center">
+  <img src="https://i.imgur.com/YourBannerImageLinkHere" alt="banner" width="600"/>
+</p>
 
-Hi, I'm [Your Name], a [your profession] based in [your location]. I love working with [list your passions or technologies, e.g., JavaScript, AI, etc.].
+<h1 align="center">Hey, it’s me—uhh, hi!</h1>
 
-## Affiliations
-- [Affiliation 1, e.g., @YourCompany or @YourProject]
-- [Affiliation 2, if applicable]
+<p align="center">
+I’m a JavaScript developer with over 3 years of experience in its framework ecosystem. I started as a frontend engineer and now focus on <b>infrastructure</b> and <b>tooling</b>, building solutions for compute-heavy workloads like orchestrating ML pipelines, optimizing GPU clusters, and automating deployments at scale.
+</p>
 
-## Skills & Interests
-- [Skill 1, e.g., #JavaScript] 💻
-- [Skill 2, e.g., #MachineLearning] 🤖
-- [Interest 1, e.g., #Photography] 📸
+<h3 align="center">💻 What I Work On</h3>
+<p align="center">
+I work across Frontend, Backend, and Full-Stack Systems, with a deep interest in infrastructure challenges. I focus on making systems run faster ⚡ and simplifying complexity, whether in self-hosted or cloud-native environments.
+</p>
 
-## Open Source
-- **[Project 1 Name]** - [Brief description of the project] 📦
-- **[Project 2 Name]** - [Brief description of the project] 📦
+<h3 align="center">🌟 Highlight</h3>
+<p align="center">
+I’m a <a href="https://localhosthq.com/">LocalHost Fellow</a>!
+</p>
 
-## Blog Posts
-- **[Post 1 Title]** - [Brief description or link] 📝
-- **[Post 2 Title]** - [Brief description or link] 📝
+<h3 align="center">🚀 My Passion</h3>
+<p align="center">
+I’m passionate about tackling challenges in system design and optimization. Let’s build a faster, simpler web together!
+</p>
 
-## Talks
-- **[Talk 1 Title]** - [Brief description or link] 🎤
-- **[Talk 2 Title]** - [Brief description or link] 🎤
-
-### About Me
-- [A personal motto, quote, or fun fact, e.g., "Code is poetry, bugs are my muse."]
-- [Hobbies or interests, e.g., "I enjoy hiking and experimenting with new recipes."]
-
----
-
-### Connect with Me
-- [Link to your website, portfolio, or social media]
-- ![GitHub Stats](https://img.shields.io/github/followers/yourhandle?style=social)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/Infrastructure-FF6F61?logo=terraform&logoColor=white" alt="Infra Badge"/>
+  <img src="https://img.shields.io/badge/Full--Stack-6A0572?logo=react&logoColor=white" alt="Full-Stack Badge"/>
+</p>
