@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/UcJxXW6.gif" alt="coding gif" width="200"/>
+  <img src="https://i.ytimg.com/vi/YWmpB_6E8KI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEYgVihlMA8=&rs=AOn4CLCffeEHPia2Fo7G4JWjYjKeQV0wCA" alt="profile image" width="50" height="50"/>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ I work across Frontend, Backend, and Full-Stack Systems, with a deep interest in
 
 <h3 align="center">🌟 Highlight</h3>
 <p align="center">
- <a href="https://localhosthq.com/">LocalHost Fellow</a>!
+I’m a <a href="https://localhosthq.com/">LocalHost Fellow</a>!
 </p>
 
 <h3 align="center">🚀 My Passion</h3>
