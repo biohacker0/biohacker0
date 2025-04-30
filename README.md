@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey, it’s me—uhh, hi!</h1>
+<h1 align="center">Hey, it’s me , uhh... hi!</h1>
 
 <p align="center">
 I’m a JavaScript developer with over 3 years of experience in its framework ecosystem. I started as a frontend engineer and now focus on <b>infrastructure</b> and <b>tooling</b>, building solutions for compute-heavy workloads like orchestrating ML pipelines, optimizing GPU clusters, and automating deployments at scale.
