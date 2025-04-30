@@ -19,7 +19,7 @@ I work across Frontend, Backend, and Full-Stack Systems, with a deep interest in
 
 <h3 align="center">🌟 Highlight</h3>
 <p align="center">
-I’m a <a href="https://localhosthq.com/">LocalHost Fellow</a>!
+ <a href="https://localhosthq.com/">LocalHost Fellow</a>!
 </p>
 
 <h3 align="center">🚀 My Passion</h3>
