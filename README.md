@@ -10,7 +10,7 @@
 |                                                                             |
 |_____________________________________________________________________________|
 |                                                                             |
-|        HANDLE: bio0 aka crow                                                |
+|        Me: bio0 aka crow                                                    |
 |        SKILLZ: Javascript, Frontend, Backend, Full Stack, Docker, K8, Linux |
 |        BASE: NSA                                                            |
 |                                                                             |
