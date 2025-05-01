@@ -28,13 +28,13 @@ If you have interesting problems to work on, ping.
 
 >> TOOLS 'N SOFTWARE
 - [YCPORTFOLIO] Turns YC applications into permanent, shareable portfolios
-  > [https://ycportfolio.com](https://ycportfolio.com)
+  > https://ycportfolio.com
 
 - [HOSTIFY] A lightweight, containerized deployment system for frontend projects
-  > [https://github.com/biohacker0/hostify](https://github.com/biohacker0/hostify)
+  > https://github.com/biohacker0/hostify
 
 - [IMAGESEARCH] Lets you scan and search your all your local images using OCR
-  > [https://github.com/biohacker0/ImageSearch](https://github.com/biohacker0/ImageSearch)
+  > https://github.com/biohacker0/ImageSearch
 
 [ EOF - STAY ELITE ]
  _____________________________________________________________________________
