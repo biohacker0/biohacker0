@@ -16,7 +16,7 @@
 |                                                                             |
 |_____________________________________________________________________________|
 
-[ STATUS: FELLOW @ https://localhosthq.com ]
+[ STATUS: Fellow @ https://localhosthq.com ]
 
 >> WHOAMI
 I'm bio0 aka crow, working with javascript and its frameworks since 3+ years.
