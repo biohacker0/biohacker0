@@ -26,7 +26,7 @@ blink, creating tools and infra.
 me likes hacking on infra, making things run faster, and simplifying complex systems.
 If you have interesting problems to work on, ping.
 
->> TOOLS 'N SOFTWARE
+>> Tools 'N Software
 - [YCPORTFOLIO] Turns YC applications into permanent, shareable portfolios
   > https://ycportfolio.com
 
